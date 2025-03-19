@@ -15,7 +15,7 @@ Si los cammbios afectan a la interfaz de usuario, por favor adjunta capturas de 
 
 ### Checklist
 - [ ] He seguido las convenciones de estilo de código de este repositorio.
-- [ ] He añadido pruebas unitarias para los cmabios que lo requieren.
+- [ ] He añadido pruebas unitarias para los cambios que lo requieren.
 - [ ] Todos los tests pasan correctamente.
 - [ ] He documentado adecuadamente los cambios en el código.
 
